@@ -1,0 +1,6 @@
+[project]
+name = "framepath-vision-lab"
+version = "0.1.0"
+description = "A synthetic image-to-track pipeline with connected components, IoU matching and line-crossing counts."
+requires-python = ">=3.11"
+dependencies = []
